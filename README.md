@@ -21,13 +21,7 @@ cd meu_bot
 mix deps.get
 ```
 
-3. Crie o arquivo `config/config.exs` baseado no exemplo:
-
-```bash
-cp config/config.example.exs config/config.exs
-```
-
-4. Preencha o `config/config.exs` com suas chaves:
+3. Crie o arquivo `config/config.exs` baseado no exemplo e preencha o `config/config.exs` com suas chaves:
 
 ```elixir
 import Config
