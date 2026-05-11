@@ -1,6 +1,6 @@
 # MeuBot — Discord Bot
 
-Bot para o Discord desenvolvido em Elixir com o framework Nostrum, como parte da disciplina T300 - Programação Funcional da Universidade de Fortaleza (Unifor).
+Bot para o Discord desenvolvido em Elixir com o framework Nostrum
 
 ## Requisitos
 
