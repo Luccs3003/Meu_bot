@@ -11,7 +11,7 @@ Bot para o Discord desenvolvido em Elixir com o framework Nostrum
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/meu_bot.git
+git clone https://github.com/Luccs3003/Meu_bot.git
 cd meu_bot
 ```
 
